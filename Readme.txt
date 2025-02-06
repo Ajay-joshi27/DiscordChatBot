@@ -1,5 +1,3 @@
----
-
 # Discord Bot - Joke, Fact, and Reply Bot
 
 This is a simple Discord bot built using Node.js and the `discord.js` library. The bot responds to various text commands in Discord channels such as sending jokes, facts, and custom replies based on specific commands. 
