@@ -12,7 +12,7 @@ This is a simple Discord bot built using Node.js and the `discord.js` library. T
 - **!help Command**: Provides a list of available commands.
 
 ## Prerequisites
-
+-https://discord.com/developers/applications
 - [Node.js](https://nodejs.org/) (v16.x or higher)
 - A Discord bot token (from the [Discord Developer Portal](https://discord.com/developers/applications))
 
